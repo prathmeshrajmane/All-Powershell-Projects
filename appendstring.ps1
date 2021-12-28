@@ -1,1 +1,1 @@
-Add-Content .\append.txt "\n I am Fine"
+Add-Content .\append.txt " `r`nI am Fine"
