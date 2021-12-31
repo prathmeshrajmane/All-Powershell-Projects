@@ -1,5 +1,5 @@
 $user = 'admin'
-$pass = 'redhat'
+$pass = '11bdb9f9c1938a7da3d748d6acd846f819'
 
 # The header is the username and password concatenated together
 $pair = "$($user):$($pass)"
